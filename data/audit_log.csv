@@ -1,0 +1,325 @@
+case_id,action,old_status,new_status,actor,timestamp
+C001,Assigned,,Open,Admin,2025-07-06
+C001,Status Change,Open,Escalated,System,2025-07-18
+C001,Recovered,Escalated,Recovered,DCA_C,2025-07-21
+C002,Assigned,,Open,Admin,2025-06-19
+C002,Status Change,Open,Escalated,System,2025-06-26
+C002,Recovered,Escalated,Recovered,DCA_A,2025-06-30
+C003,Assigned,,Open,Admin,2025-07-02
+C003,Recovered,Open,Recovered,DCA_C,2025-07-06
+C004,Assigned,,Open,Admin,2025-07-03
+C004,Status Change,Open,Escalated,System,2025-07-11
+C004,Recovered,Escalated,Recovered,DCA_A,2025-07-24
+C005,Assigned,,Open,Admin,2025-07-08
+C005,Status Change,Open,Escalated,System,2025-07-13
+C005,Recovered,Escalated,Recovered,DCA_A,2025-07-15
+C006,Assigned,,Open,Admin,2025-06-28
+C006,Status Change,Open,Escalated,System,2025-07-12
+C006,Recovered,Escalated,Recovered,DCA_A,2025-07-25
+C007,Assigned,,Open,Admin,2025-07-09
+C007,Recovered,Open,Recovered,DCA_B,2025-07-11
+C008,Assigned,,Open,Admin,2025-06-18
+C008,Recovered,Open,Recovered,DCA_C,2025-07-03
+C009,Assigned,,Open,Admin,2025-06-22
+C009,Status Change,Open,Escalated,System,2025-07-03
+C009,Recovered,Escalated,Recovered,DCA_A,2025-07-05
+C010,Assigned,,Open,Admin,2025-07-13
+C010,Status Change,Open,Escalated,System,2025-07-18
+C010,Recovered,Escalated,Recovered,DCA_B,2025-07-21
+C011,Assigned,,Open,Admin,2025-06-27
+C011,Recovered,Open,Recovered,DCA_C,2025-07-09
+C012,Assigned,,Open,Admin,2025-06-18
+C012,Status Change,Open,Escalated,System,2025-06-30
+C012,Recovered,Escalated,Recovered,DCA_B,2025-07-07
+C013,Assigned,,Open,Admin,2025-07-15
+C013,Recovered,Open,Recovered,DCA_A,2025-07-29
+C014,Assigned,,Open,Admin,2025-06-23
+C014,Status Change,Open,Escalated,System,2025-06-30
+C014,Recovered,Escalated,Recovered,DCA_C,2025-07-15
+C015,Assigned,,Open,Admin,2025-07-14
+C015,Status Change,Open,Escalated,System,2025-07-25
+C015,Recovered,Escalated,Recovered,DCA_B,2025-07-28
+C016,Assigned,,Open,Admin,2025-06-20
+C016,Status Change,Open,Escalated,System,2025-06-29
+C016,Recovered,Escalated,Recovered,DCA_C,2025-07-14
+C017,Assigned,,Open,Admin,2025-06-28
+C017,Status Change,Open,Escalated,System,2025-07-01
+C017,Recovered,Escalated,Recovered,DCA_A,2025-07-14
+C018,Assigned,,Open,Admin,2025-07-13
+C018,Status Change,Open,Escalated,System,2025-07-24
+C018,Recovered,Escalated,Recovered,DCA_A,2025-08-03
+C019,Assigned,,Open,Admin,2025-06-28
+C019,Status Change,Open,Escalated,System,2025-07-06
+C019,Recovered,Escalated,Recovered,DCA_C,2025-07-17
+C020,Assigned,,Open,Admin,2025-06-19
+C020,Status Change,Open,Escalated,System,2025-06-21
+C020,Recovered,Escalated,Recovered,DCA_A,2025-06-29
+C021,Assigned,,Open,Admin,2025-07-16
+C021,Status Change,Open,Escalated,System,2025-07-29
+C021,Recovered,Escalated,Recovered,DCA_C,2025-08-12
+C022,Assigned,,Open,Admin,2025-06-25
+C022,Recovered,Open,Recovered,DCA_C,2025-07-01
+C023,Assigned,,Open,Admin,2025-07-16
+C023,Status Change,Open,Escalated,System,2025-07-22
+C023,Recovered,Escalated,Recovered,DCA_B,2025-08-06
+C024,Assigned,,Open,Admin,2025-07-14
+C024,Status Change,Open,Escalated,System,2025-07-15
+C024,Recovered,Escalated,Recovered,DCA_C,2025-07-17
+C025,Assigned,,Open,Admin,2025-07-01
+C025,Status Change,Open,Escalated,System,2025-07-14
+C025,Recovered,Escalated,Recovered,DCA_A,2025-07-23
+C026,Assigned,,Open,Admin,2025-06-24
+C026,Status Change,Open,Escalated,System,2025-07-09
+C026,Recovered,Escalated,Recovered,DCA_B,2025-07-21
+C027,Assigned,,Open,Admin,2025-06-28
+C027,Status Change,Open,Escalated,System,2025-07-13
+C027,Recovered,Escalated,Recovered,DCA_A,2025-07-17
+C028,Assigned,,Open,Admin,2025-06-18
+C028,Status Change,Open,Escalated,System,2025-06-28
+C028,Recovered,Escalated,Recovered,DCA_A,2025-06-29
+C029,Assigned,,Open,Admin,2025-07-08
+C029,Recovered,Open,Recovered,DCA_B,2025-07-10
+C030,Assigned,,Open,Admin,2025-06-18
+C030,Status Change,Open,Escalated,System,2025-06-29
+C030,Recovered,Escalated,Recovered,DCA_C,2025-07-11
+C031,Assigned,,Open,Admin,2025-07-04
+C031,Status Change,Open,Escalated,System,2025-07-17
+C031,Recovered,Escalated,Recovered,DCA_A,2025-07-21
+C032,Assigned,,Open,Admin,2025-06-19
+C032,Status Change,Open,Escalated,System,2025-06-26
+C032,Recovered,Escalated,Recovered,DCA_C,2025-07-07
+C033,Assigned,,Open,Admin,2025-07-06
+C033,Recovered,Open,Recovered,DCA_A,2025-07-13
+C034,Assigned,,Open,Admin,2025-06-23
+C034,Status Change,Open,Escalated,System,2025-07-02
+C034,Recovered,Escalated,Recovered,DCA_B,2025-07-05
+C035,Assigned,,Open,Admin,2025-06-30
+C035,Recovered,Open,Recovered,DCA_C,2025-07-08
+C036,Assigned,,Open,Admin,2025-06-19
+C036,Status Change,Open,Escalated,System,2025-07-03
+C036,Recovered,Escalated,Recovered,DCA_A,2025-07-18
+C037,Assigned,,Open,Admin,2025-06-21
+C037,Status Change,Open,Escalated,System,2025-06-29
+C037,Recovered,Escalated,Recovered,DCA_A,2025-07-14
+C038,Assigned,,Open,Admin,2025-06-21
+C038,Status Change,Open,Escalated,System,2025-06-28
+C038,Recovered,Escalated,Recovered,DCA_B,2025-07-03
+C039,Assigned,,Open,Admin,2025-07-08
+C039,Status Change,Open,Escalated,System,2025-07-12
+C039,Recovered,Escalated,Recovered,DCA_C,2025-07-22
+C040,Assigned,,Open,Admin,2025-07-03
+C040,Status Change,Open,Escalated,System,2025-07-04
+C040,Recovered,Escalated,Recovered,DCA_C,2025-07-13
+C041,Assigned,,Open,Admin,2025-06-21
+C041,Recovered,Open,Recovered,DCA_A,2025-06-23
+C042,Assigned,,Open,Admin,2025-07-05
+C042,Status Change,Open,Escalated,System,2025-07-12
+C042,Recovered,Escalated,Recovered,DCA_C,2025-07-22
+C043,Assigned,,Open,Admin,2025-06-17
+C043,Status Change,Open,Escalated,System,2025-06-28
+C043,Recovered,Escalated,Recovered,DCA_B,2025-07-13
+C044,Assigned,,Open,Admin,2025-06-22
+C044,Status Change,Open,Escalated,System,2025-06-27
+C044,Recovered,Escalated,Recovered,DCA_B,2025-07-05
+C045,Assigned,,Open,Admin,2025-07-15
+C045,Recovered,Open,Recovered,DCA_C,2025-07-23
+C046,Assigned,,Open,Admin,2025-06-19
+C046,Status Change,Open,Escalated,System,2025-06-23
+C046,Recovered,Escalated,Recovered,DCA_B,2025-07-08
+C047,Assigned,,Open,Admin,2025-07-14
+C047,Status Change,Open,Escalated,System,2025-07-20
+C047,Recovered,Escalated,Recovered,DCA_C,2025-08-03
+C048,Assigned,,Open,Admin,2025-07-08
+C048,Recovered,Open,Recovered,DCA_A,2025-07-21
+C049,Assigned,,Open,Admin,2025-07-07
+C049,Status Change,Open,Escalated,System,2025-07-22
+C049,Recovered,Escalated,Recovered,DCA_A,2025-08-06
+C050,Assigned,,Open,Admin,2025-07-09
+C050,Recovered,Open,Recovered,DCA_C,2025-07-14
+C051,Assigned,,Open,Admin,2025-06-26
+C051,Status Change,Open,Escalated,System,2025-07-05
+C051,Recovered,Escalated,Recovered,DCA_C,2025-07-07
+C052,Assigned,,Open,Admin,2025-06-29
+C052,Status Change,Open,Escalated,System,2025-06-30
+C052,Recovered,Escalated,Recovered,DCA_B,2025-07-11
+C053,Assigned,,Open,Admin,2025-06-21
+C053,Status Change,Open,Escalated,System,2025-07-03
+C053,Recovered,Escalated,Recovered,DCA_A,2025-07-05
+C054,Assigned,,Open,Admin,2025-07-16
+C054,Recovered,Open,Recovered,DCA_C,2025-07-17
+C055,Assigned,,Open,Admin,2025-07-03
+C055,Status Change,Open,Escalated,System,2025-07-06
+C055,Recovered,Escalated,Recovered,DCA_A,2025-07-21
+C056,Assigned,,Open,Admin,2025-07-14
+C056,Status Change,Open,Escalated,System,2025-07-25
+C056,Recovered,Escalated,Recovered,DCA_C,2025-07-31
+C057,Assigned,,Open,Admin,2025-07-14
+C057,Status Change,Open,Escalated,System,2025-07-26
+C057,Recovered,Escalated,Recovered,DCA_A,2025-08-09
+C058,Assigned,,Open,Admin,2025-07-11
+C058,Status Change,Open,Escalated,System,2025-07-12
+C058,Recovered,Escalated,Recovered,DCA_B,2025-07-25
+C059,Assigned,,Open,Admin,2025-07-11
+C059,Recovered,Open,Recovered,DCA_A,2025-07-14
+C060,Assigned,,Open,Admin,2025-06-28
+C060,Status Change,Open,Escalated,System,2025-07-02
+C060,Recovered,Escalated,Recovered,DCA_B,2025-07-08
+C061,Assigned,,Open,Admin,2025-07-12
+C061,Recovered,Open,Recovered,DCA_B,2025-07-13
+C062,Assigned,,Open,Admin,2025-06-26
+C062,Status Change,Open,Escalated,System,2025-07-09
+C062,Recovered,Escalated,Recovered,DCA_C,2025-07-20
+C063,Assigned,,Open,Admin,2025-06-26
+C063,Recovered,Open,Recovered,DCA_A,2025-07-11
+C064,Assigned,,Open,Admin,2025-07-04
+C064,Status Change,Open,Escalated,System,2025-07-06
+C064,Recovered,Escalated,Recovered,DCA_B,2025-07-18
+C065,Assigned,,Open,Admin,2025-06-29
+C065,Status Change,Open,Escalated,System,2025-07-14
+C065,Recovered,Escalated,Recovered,DCA_C,2025-07-15
+C066,Assigned,,Open,Admin,2025-06-29
+C066,Recovered,Open,Recovered,DCA_C,2025-07-14
+C067,Assigned,,Open,Admin,2025-07-09
+C067,Status Change,Open,Escalated,System,2025-07-16
+C067,Recovered,Escalated,Recovered,DCA_B,2025-07-26
+C068,Assigned,,Open,Admin,2025-07-07
+C068,Status Change,Open,Escalated,System,2025-07-16
+C068,Recovered,Escalated,Recovered,DCA_B,2025-07-22
+C069,Assigned,,Open,Admin,2025-07-08
+C069,Status Change,Open,Escalated,System,2025-07-11
+C069,Recovered,Escalated,Recovered,DCA_C,2025-07-22
+C070,Assigned,,Open,Admin,2025-07-14
+C070,Status Change,Open,Escalated,System,2025-07-24
+C070,Recovered,Escalated,Recovered,DCA_B,2025-07-29
+C071,Assigned,,Open,Admin,2025-06-22
+C071,Recovered,Open,Recovered,DCA_B,2025-07-02
+C072,Assigned,,Open,Admin,2025-06-30
+C072,Status Change,Open,Escalated,System,2025-07-09
+C072,Recovered,Escalated,Recovered,DCA_A,2025-07-20
+C073,Assigned,,Open,Admin,2025-06-25
+C073,Recovered,Open,Recovered,DCA_A,2025-07-09
+C074,Assigned,,Open,Admin,2025-07-07
+C074,Status Change,Open,Escalated,System,2025-07-20
+C074,Recovered,Escalated,Recovered,DCA_A,2025-07-21
+C075,Assigned,,Open,Admin,2025-07-01
+C075,Recovered,Open,Recovered,DCA_C,2025-07-08
+C076,Assigned,,Open,Admin,2025-06-22
+C076,Status Change,Open,Escalated,System,2025-06-29
+C076,Recovered,Escalated,Recovered,DCA_A,2025-07-14
+C077,Assigned,,Open,Admin,2025-07-10
+C077,Recovered,Open,Recovered,DCA_C,2025-07-13
+C078,Assigned,,Open,Admin,2025-07-02
+C078,Status Change,Open,Escalated,System,2025-07-11
+C078,Recovered,Escalated,Recovered,DCA_A,2025-07-19
+C079,Assigned,,Open,Admin,2025-07-11
+C079,Status Change,Open,Escalated,System,2025-07-20
+C079,Recovered,Escalated,Recovered,DCA_C,2025-07-30
+C080,Assigned,,Open,Admin,2025-07-14
+C080,Recovered,Open,Recovered,DCA_C,2025-07-22
+C081,Assigned,,Open,Admin,2025-07-13
+C081,Recovered,Open,Recovered,DCA_C,2025-07-18
+C082,Assigned,,Open,Admin,2025-06-24
+C082,Status Change,Open,Escalated,System,2025-06-29
+C082,Recovered,Escalated,Recovered,DCA_B,2025-07-03
+C083,Assigned,,Open,Admin,2025-06-26
+C083,Status Change,Open,Escalated,System,2025-06-28
+C083,Recovered,Escalated,Recovered,DCA_C,2025-07-05
+C084,Assigned,,Open,Admin,2025-06-20
+C084,Status Change,Open,Escalated,System,2025-06-27
+C084,Recovered,Escalated,Recovered,DCA_A,2025-07-04
+C085,Assigned,,Open,Admin,2025-06-22
+C085,Recovered,Open,Recovered,DCA_C,2025-07-07
+C086,Assigned,,Open,Admin,2025-06-16
+C086,Recovered,Open,Recovered,DCA_B,2025-06-17
+C087,Assigned,,Open,Admin,2025-07-10
+C087,Recovered,Open,Recovered,DCA_C,2025-07-19
+C088,Assigned,,Open,Admin,2025-07-11
+C088,Status Change,Open,Escalated,System,2025-07-15
+C088,Recovered,Escalated,Recovered,DCA_B,2025-07-16
+C089,Assigned,,Open,Admin,2025-06-26
+C089,Status Change,Open,Escalated,System,2025-07-10
+C089,Recovered,Escalated,Recovered,DCA_C,2025-07-20
+C090,Assigned,,Open,Admin,2025-06-16
+C090,Recovered,Open,Recovered,DCA_A,2025-06-26
+C091,Assigned,,Open,Admin,2025-07-06
+C091,Status Change,Open,Escalated,System,2025-07-20
+C091,Recovered,Escalated,Recovered,DCA_B,2025-07-25
+C092,Assigned,,Open,Admin,2025-06-26
+C092,Status Change,Open,Escalated,System,2025-07-02
+C092,Recovered,Escalated,Recovered,DCA_B,2025-07-07
+C093,Assigned,,Open,Admin,2025-06-24
+C093,Recovered,Open,Recovered,DCA_A,2025-06-25
+C094,Assigned,,Open,Admin,2025-07-16
+C094,Status Change,Open,Escalated,System,2025-07-27
+C094,Recovered,Escalated,Recovered,DCA_A,2025-08-09
+C095,Assigned,,Open,Admin,2025-07-16
+C095,Status Change,Open,Escalated,System,2025-07-30
+C095,Recovered,Escalated,Recovered,DCA_A,2025-08-03
+C096,Assigned,,Open,Admin,2025-07-01
+C096,Status Change,Open,Escalated,System,2025-07-05
+C096,Recovered,Escalated,Recovered,DCA_B,2025-07-18
+C097,Assigned,,Open,Admin,2025-06-21
+C097,Status Change,Open,Escalated,System,2025-06-26
+C097,Recovered,Escalated,Recovered,DCA_B,2025-07-11
+C098,Assigned,,Open,Admin,2025-07-04
+C098,Status Change,Open,Escalated,System,2025-07-16
+C098,Recovered,Escalated,Recovered,DCA_C,2025-07-18
+C099,Assigned,,Open,Admin,2025-07-10
+C099,Status Change,Open,Escalated,System,2025-07-23
+C099,Recovered,Escalated,Recovered,DCA_C,2025-07-29
+C100,Assigned,,Open,Admin,2025-06-29
+C100,Recovered,Open,Recovered,DCA_A,2025-07-08
+C101,Assigned,,Open,Admin,2025-07-13
+C101,Status Change,Open,Escalated,System,2025-07-15
+C101,Recovered,Escalated,Recovered,DCA_B,2025-07-26
+C102,Assigned,,Open,Admin,2025-07-08
+C102,Recovered,Open,Recovered,DCA_C,2025-07-11
+C103,Assigned,,Open,Admin,2025-06-24
+C103,Recovered,Open,Recovered,DCA_C,2025-07-01
+C104,Assigned,,Open,Admin,2025-06-24
+C104,Recovered,Open,Recovered,DCA_B,2025-07-08
+C105,Assigned,,Open,Admin,2025-07-14
+C105,Status Change,Open,Escalated,System,2025-07-27
+C105,Recovered,Escalated,Recovered,DCA_A,2025-08-02
+C106,Assigned,,Open,Admin,2025-07-01
+C106,Status Change,Open,Escalated,System,2025-07-09
+C106,Recovered,Escalated,Recovered,DCA_B,2025-07-15
+C107,Assigned,,Open,Admin,2025-07-14
+C107,Status Change,Open,Escalated,System,2025-07-15
+C107,Recovered,Escalated,Recovered,DCA_A,2025-07-17
+C108,Assigned,,Open,Admin,2025-07-09
+C108,Recovered,Open,Recovered,DCA_C,2025-07-18
+C109,Assigned,,Open,Admin,2025-07-01
+C109,Status Change,Open,Escalated,System,2025-07-14
+C109,Recovered,Escalated,Recovered,DCA_B,2025-07-18
+C110,Assigned,,Open,Admin,2025-07-08
+C110,Status Change,Open,Escalated,System,2025-07-19
+C110,Recovered,Escalated,Recovered,DCA_C,2025-07-28
+C111,Assigned,,Open,Admin,2025-06-27
+C111,Status Change,Open,Escalated,System,2025-07-03
+C111,Recovered,Escalated,Recovered,DCA_B,2025-07-08
+C112,Assigned,,Open,Admin,2025-06-24
+C112,Status Change,Open,Escalated,System,2025-07-06
+C112,Recovered,Escalated,Recovered,DCA_C,2025-07-18
+C113,Assigned,,Open,Admin,2025-07-16
+C113,Recovered,Open,Recovered,DCA_B,2025-07-20
+C114,Assigned,,Open,Admin,2025-07-09
+C114,Status Change,Open,Escalated,System,2025-07-23
+C114,Recovered,Escalated,Recovered,DCA_A,2025-07-29
+C115,Assigned,,Open,Admin,2025-06-25
+C115,Status Change,Open,Escalated,System,2025-06-28
+C115,Recovered,Escalated,Recovered,DCA_B,2025-07-07
+C116,Assigned,,Open,Admin,2025-07-08
+C116,Recovered,Open,Recovered,DCA_C,2025-07-10
+C117,Assigned,,Open,Admin,2025-06-25
+C117,Status Change,Open,Escalated,System,2025-07-03
+C117,Recovered,Escalated,Recovered,DCA_B,2025-07-08
+C118,Assigned,,Open,Admin,2025-06-19
+C118,Status Change,Open,Escalated,System,2025-06-27
+C118,Recovered,Escalated,Recovered,DCA_A,2025-06-30
+C119,Assigned,,Open,Admin,2025-07-11
+C119,Status Change,Open,Escalated,System,2025-07-15
+C119,Recovered,Escalated,Recovered,DCA_C,2025-07-25
+C120,Assigned,,Open,Admin,2025-07-11
+C120,Status Change,Open,Escalated,System,2025-07-18
+C120,Recovered,Escalated,Recovered,DCA_C,2025-07-23
