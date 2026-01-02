@@ -12,4 +12,5 @@ Prototype for the FedEx SMART Hackathon.
 
 ## Run
 pip install -r requirements.txt
+
 streamlit run app.py
